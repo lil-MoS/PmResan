@@ -1,6 +1,8 @@
 # PmResan
 
 زبان: PhP
+
+
 SSL:  ✅
 
 
@@ -11,3 +13,14 @@ SSL:  ✅
 
 
 آیدی عددی ادمین بات رو جایگزین ##sudo##
+
+
+
+
+[Creator](http://t.me/Lil_mos)
+
+
+[Donate](http://idpay.ir/lilmos)
+
+
+[Channel](http://t.me/FoxTeam01)
